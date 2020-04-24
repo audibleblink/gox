@@ -1,4 +1,4 @@
-module github.com/mitchellh/gox
+module github.com/audibleblink/gox
 
 go 1.14
 
