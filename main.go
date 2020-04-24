@@ -223,7 +223,7 @@ Options:
   -parallel=-1        Amount of parallelism, defaults to number of CPUs
   -gocmd="go"         Build command, defaults to Go
   -rebuild            Force rebuilding of package that were up to date
-  -trimpath			  Remove all file system paths from the resulting executable
+  -trimpath           Remove all file system paths from the resulting executable
   -verbose            Verbose mode
 
 Output path template:
